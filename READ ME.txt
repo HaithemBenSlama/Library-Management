@@ -1,0 +1,36 @@
+***************** Projet bibliotheque creé par Haithem Ben Slama ***************** 
+
+Programmes utilisés:
+-Rad Studio 11 Alexandra C++ Builder
+-Advanced Installer 19.0
+
+Classes:
+-Personne
+-Enseignant
+-Etudiant
+-Bibliotheque
+-Livre
+-User
+-Statistique
+
+Les Relations entres les classes:
+- Les deux classes Enseignant et etudiant heritent de Personne.
+- Bibliotheque contient un tableau d'Etudiant, d'Enseignant et de Livre.
+- Classe Statistique est un classe ami de Bibliotheque.
+
+Les données seront Sauvegardés sous form des fichier .csv [avec Separateur ';'].
+Chemin: C:\Data
+
+!!! Clé d'autorisation pour créer un compte:
+---------------------------------
+W269N-WFGWX-YVC9B-4J6C9
+---------------------------------
+
+Chemin du programme:
+C:\Program Files (x86)\Bibliotheque\Program
+
+Pour changer la musique il suffit de télécharger votre Musique et le renommer Music.mp3 puis le déplacer
+dans "C:\Program Files (x86)\Bibliotheque\Program" et remplacer l'ancienne.
+
+
+*****************  Haithem Ben Slama ***************** 
